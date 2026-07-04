@@ -20,6 +20,7 @@ This is an interactive Power BI dashboard built using the Blinkit Grocery datase
 - Data Modeling
 
 ## 📷 Dashboard Preview
+![Blinkit Dashboard](Screenshot%20(153).png)
 
 *(I will add the dashboard screenshot here after uploading it.)*
 
